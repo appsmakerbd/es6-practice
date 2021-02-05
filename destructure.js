@@ -13,3 +13,8 @@ console.log(name,age,phone);
 const friends=['Al-amin','sohel','hannan','rakib'];
 const [any,...anything2]=friends;
 console.log(anything2);
+
+
+const wifeName='Mehjabin Hasan Moni';
+const takaPysha=250;
+console.log(`${wifeName} eta amar bou ebong tar kace taka ache ${takaPysha+500}`);
